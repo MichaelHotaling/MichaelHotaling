@@ -29,7 +29,16 @@
 ![Wolfram Mathematica](https://img.shields.io/badge/-Mathematica-de0900?style=for-the-badge&logo=Wolfram&20Mathematica)
 
 
-#### Tools 
+#### Machine Learning and Deep Learning
+
+![Tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Spark](https://img.shields.io/badge/-Pyspark-D00000?style=for-the-badge&logo=ApacheSpark&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-43b02a?style=for-the-badge&logo=Anaconda&logoColor=white)
+
+#### Specalized Software 
 
 ![MULTISIM](https://img.shields.io/badge/MultiSIM-4f56a4.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAESElEQVR4nL2YTYhcRRDHfz3bu9GEXb1EjSagkkNUFBLQkxJj/DiYEISFHJWgB0mWKG5IDirqURHMxZsQcoknL+LB+HHwJEgkQSRC3KCbCOJH0LBxs5l9Ux6qal9v75uZN7Mz+4em+3V3df+7uqu6+gUREdYOAoReBKIJDRtOLAAFMFJXMNLjivqEz3EDGOtFMAL/DJpNAt+dX4Ep4BIUh6HxKoQW0Og2QBCR8SETDMA8sKhVLSCch7DN6kYot34F4ThEcm2wjEPUNQjQqDyXEZgdIpuKLWYK2GZt56A4BAv/woYjwH5UxUurCGvsZtxInMRu4Ouk/c5cIHUzYoKrQbBx8qPjhMbQs+ZWvZD1+53M7Q1Lg38CbwLXgKPAA0bSfaGXvwVeRD3JMWASNZxlW+zW8xNwOBmkH7jVzgAXrG4rcA642efMZArgOrChasB0i68Ap/skVgV3HzPAVWA9peYcLeu3Ht3uFRdHelbGrPN9wHH6uDcTAmeB11HNvALcQWadBv8OwDorL7YjCKruW4AneiSWYzewD/gPeCgj40iN8wRwGXgJ2NSJIOgKCvrTYIqtCQE3DDGifnNE4C3gHet7EniGRNvROpLkg0LTctdcflP44k8Do+gRmwE+TDtFyuhiIqmrHQ51QD7GD8BvwFPW5ls8ibqbJvAY8AKZBr+0jwv2fZXl3n018O09i/rDRWAP8ElC8jVgB/AXsBe4KR0grOFNN4IqYAH4HthOdfC6wopftrJfdYEacVpN+HgX0bNWAJuBLZQGA6VR+iKWsJbBwntGdAq4n5V+USjvabd0gog0GSwEtUooNZO7s9ourBeLdU03aP/w8Yln0cjkYcoIp0jkc80F9GyeQu/kybK1f7Sy70XLvxKRcRFBRJ4WkXkRKTqMU5jsPpNBRKZ9TETkepc0b+miiDwnIg+KyPFkcEfT8r02yTrLv8kWULXIKyISRWTE0hbvEIF7a2xtAOZQHwkalj1J9WF/BPgUdRcTwN3J1qaewutawDiwC/jC6vdYXiAioUsiydN0JtNiy8o3RGSn9fm4g/YcLj9j89wmInPeFtGHTDcNYv0OAb8AB1Dvn2rPA4JR1M+BRtKS9JsFptHY823g0aTNA9pRSi8QInBXF4KOzcB36DbfanVVDl3QxxHoe9i3MwAHgc/s+zwaxfu7vEjkl95GkXoPJXcVDSPXpHSoOcn0yZBqFzRYcLm/UdcykfVZVvZD2i0VljfRwz9qi/OD3w2uhGNoMFAAbwAbye7eHA2bqG5yYp8D7wM/U2q3E9yp7wfusfLzNRZGtInqwA/zZeADq3sXfbHdXoOkj+H95uoSnK5JMIVb3R/AGeBZ6kXkjTbltojARzVJucO+hL4jrqGWvYPSgFb7Z6KS4IE+5B4HfkQj4E2s/oHVFpEuVlSBAOy0BEMkB6V19gqP86r84EDR7w/MQbz6amGoqx8E/gdpEcb/ukdX5gAAAABJRU5ErkJggg==)
 <!--
