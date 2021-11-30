@@ -20,7 +20,7 @@
 
 ## Languages and Tools  
 
-#### Languages 
+#### Languages I Use
 
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-165CAA?style=for-the-badge&logo=R&logoColor=white)
@@ -29,7 +29,7 @@
 ![Wolfram Mathematica](https://img.shields.io/badge/-Mathematica-de0900?style=for-the-badge&logo=Wolfram%20Mathematica)
 
 
-#### Libraries
+#### Libraries I Use
 
 ![Numpy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -38,8 +38,12 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
 ![Sympy](https://img.shields.io/badge/-sympy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
 
-#### Machine Learning and Deep Learning
+#### Visualization Software
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
+
+#### Machine Learning and Deep Learning
 
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -48,16 +52,58 @@
 ![Spark](https://img.shields.io/badge/-Pyspark-D00000?style=for-the-badge&logo=ApacheSpark&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-43b02a?style=for-the-badge&logo=Anaconda&logoColor=white)
 
-#### Specalized Software 
+#### Big Data
+
+![Airflow](https://img.shields.io/badge/-Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+
+#### Quantum Computing
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+
+
+#### Version Control
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+#### Specalized Software Experience
 
 ![MULTISIM](https://img.shields.io/badge/MultiSIM-4f56a4.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAESElEQVR4nL2YTYhcRRDHfz3bu9GEXb1EjSagkkNUFBLQkxJj/DiYEISFHJWgB0mWKG5IDirqURHMxZsQcoknL+LB+HHwJEgkQSRC3KCbCOJH0LBxs5l9Ux6qal9v75uZN7Mz+4em+3V3df+7uqu6+gUREdYOAoReBKIJDRtOLAAFMFJXMNLjivqEz3EDGOtFMAL/DJpNAt+dX4Ep4BIUh6HxKoQW0Og2QBCR8SETDMA8sKhVLSCch7DN6kYot34F4ThEcm2wjEPUNQjQqDyXEZgdIpuKLWYK2GZt56A4BAv/woYjwH5UxUurCGvsZtxInMRu4Ouk/c5cIHUzYoKrQbBx8qPjhMbQs+ZWvZD1+53M7Q1Lg38CbwLXgKPAA0bSfaGXvwVeRD3JMWASNZxlW+zW8xNwOBmkH7jVzgAXrG4rcA642efMZArgOrChasB0i68Ap/skVgV3HzPAVWA9peYcLeu3Ht3uFRdHelbGrPN9wHH6uDcTAmeB11HNvALcQWadBv8OwDorL7YjCKruW4AneiSWYzewD/gPeCgj40iN8wRwGXgJ2NSJIOgKCvrTYIqtCQE3DDGifnNE4C3gHet7EniGRNvROpLkg0LTctdcflP44k8Do+gRmwE+TDtFyuhiIqmrHQ51QD7GD8BvwFPW5ls8ibqbJvAY8AKZBr+0jwv2fZXl3n018O09i/rDRWAP8ElC8jVgB/AXsBe4KR0grOFNN4IqYAH4HthOdfC6wopftrJfdYEacVpN+HgX0bNWAJuBLZQGA6VR+iKWsJbBwntGdAq4n5V+USjvabd0gog0GSwEtUooNZO7s9ourBeLdU03aP/w8Yln0cjkYcoIp0jkc80F9GyeQu/kybK1f7Sy70XLvxKRcRFBRJ4WkXkRKTqMU5jsPpNBRKZ9TETkepc0b+miiDwnIg+KyPFkcEfT8r02yTrLv8kWULXIKyISRWTE0hbvEIF7a2xtAOZQHwkalj1J9WF/BPgUdRcTwN3J1qaewutawDiwC/jC6vdYXiAioUsiydN0JtNiy8o3RGSn9fm4g/YcLj9j89wmInPeFtGHTDcNYv0OAb8AB1Dvn2rPA4JR1M+BRtKS9JsFptHY823g0aTNA9pRSi8QInBXF4KOzcB36DbfanVVDl3QxxHoe9i3MwAHgc/s+zwaxfu7vEjkl95GkXoPJXcVDSPXpHSoOcn0yZBqFzRYcLm/UdcykfVZVvZD2i0VljfRwz9qi/OD3w2uhGNoMFAAbwAbye7eHA2bqG5yYp8D7wM/U2q3E9yp7wfusfLzNRZGtInqwA/zZeADq3sXfbHdXoOkj+H95uoSnK5JMIVb3R/AGeBZ6kXkjTbltojARzVJucO+hL4jrqGWvYPSgFb7Z6KS4IE+5B4HfkQj4E2s/oHVFpEuVlSBAOy0BEMkB6V19gqP86r84EDR7w/MQbz6amGoqx8E/gdpEcb/ukdX5gAAAABJRU5ErkJggg==)
 
+# About me!
+
+## :technologist: I’m currently working on
+- Building predictive models for semiconductor equipment to predict failures before they impact production
+- Writing a book on Practical Prognostics with Python (Stay tuned!) 
+- Developing stock trading algorithms to reduce volatility exposure and beat common index returns   
 
 #### Work History
 ![Applied Materials](https://img.shields.io/badge/Applied%20Materials-347da2.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAnCAYAAAB9qAq4AAAEXElEQVR4nO2YW4iVVRTHf+c731wIPWYP0WBFIVlgQaCRlyKKCLIgLSlfpIjE6qUisYcKDArKKIIi1CLsLa0oguheeIERuhhMDdJlukg2ZWTRhDPOOeffw1qbb8/xO/eD9OAfFuc7a9/WXre91y5Iog2kQBm4FbgSqAJJi2PLwH7gZ+BTYDxqS3yu4yGpVUr8d726xy+SXpG0Kpq/mLduO8IVJN3pC0xJmox+m9GUUx6GJS2tJ2RBzU1cjL4XAMf8u9CiaUNfAXOAhcC1wHXAbG+vABuBp8ncqCUTJ03au6HzJG2t0eZGb0tb0WBw3EXAYMRrF3IN/gr8BvxT074S2AKc7v0eADZjlqs02+X9kqp1fKddTEj6QdJOSctrNHWRpD8kVbzvMucX65l1QNJTPRKsHl6U1C+pz9e93gWsShqRBUxSa+Jg1iFgHfCv89oJiHpIgMuBq8hc5h3gRl/zGPACcIe3rQF2nKiAiGmRpH2RJrdF658t6W/X4h5JSSPhkh5SbX6bJemAMp9bHLW96rwJSfNTsryzKVJ3kSxiq1gkBjOFnJZ/NB2PMHYEeBT4BpgA1gMfe9s64DOfexewGjgFuDhIvba+L/cUhySdITuVBiR95/wRZcGyTFnm2JD6TrYAk8Co73gucI7v7ifgT/8+FzgVy/yjxBm/MWb52CHgMuA1YArLjfOBEmbJaeBING4hksZc2h9lYY+km6Ndr1XmH68774ikuWo9MJb7uKqkByP+sPPHJA0678JIgy+lWGYP2b7fd5FGu0jJ0kx8kvQ7P/hkHoqu7T7/X5uulMOfMVfKzDyniKjh1SLm1xMwb7620MnZekJxUsBucVLAbvG/FzBt3qXh2JAjG+XBkCs7XiQP9SaM895hmh915ZrftpGSv/tpstMlbh8gOxnuw06hRhoEO3HGaa/InyFg0GLVFwf4NuqzIPr+CFiBHf5PtLjGZuALOjRzAhz079OwWwzAIeAvTDPX+OQp8CzwMnC0xfk3YVVax2VDCgy7ECWsqB4HfscukzcBi7G3mO2YuW4DHgbOJyvq48XDRfYosKcb4YKA7wMP+WKrgQ99wseAVd7vGexe+In/P0im+UboI/PnjpBgL00j2M7XAGe6gPuBu71PCXgPeB6ryuZ5v5iGMH8dwDZbpPWyoKGA08CT/j0HeM4nHgS2YjfuAqaNu7BAGXX62mkE89t7yWqYCj1Agu10B7DbeTdgDzmTmDa2AVcAbzsPTKOz/beElQHbMY2X6cKktQh5UMDtWGVVwlJIgSyV7Ha6ACu+52E1RshtY8AjzLz49kzAUGZ+j0XrG972OLAE2OBtAAec8tAsYXeEkNkrLuxbWGo57PyVwOdYFF+KaTcem0bUc+FiAcF8JwXeBJZi7yZggXMPsA/4CvgAeBfLnWXMAh2fte0IGIQM5l4B3ALsJQuOs4CrsYfwXTR6/O4R8m4zFV9YwE6nS7DoXgJ8ifkl9ObVqyH+A8bwpE6WwOHlAAAAAElFTkSuQmCC)
+<br>
+Data Scientist: 
+- December 2020 - Present
+
+System Expert: 
+- June 2018 - December 2020
+
+Lead Engineer: 
+- January 2016 - June 2018
+
+Customer Engineer: 
+- November 2014 - January 2016
+
+<br>
+<br>
 
 ![IBM](https://img.shields.io/badge/-IBM-052FAD?style=for-the-badge&logo=IBM)
+<br>
+Research Assistant
+- June 2013 - July 2014
 
+<br>
 
 <!--
 **MichaelHotaling/MichaelHotaling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
