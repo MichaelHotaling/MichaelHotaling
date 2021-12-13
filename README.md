@@ -102,6 +102,14 @@ Remaining Useful Life, or RUL, is a metric used to define the number of cycles o
 <img src="images/smart_warehousing.gif" width="520" height="260" />
 Using data science and deep learning, predicting inventory consumption and asset levels of warehouses can improve logistical capabilities of several industries. This allows for increased turnaround time for parts delivery, boosted efficiency and productivity, and an overall reduction of overhead caused by priority shipping from unexpected demand. Thanks to the Internet of Things, WiFi capable sensors can track the location and movement of assets in a facility, increasing efficiency of logistics teams. 
 
+## Certifications
+### Coursera
+[Duke University - Nanotechnology: A Maker’s Course](https://www.coursera.org/account/accomplishments/certificate/4P4J93JE5WQ5)
+
+### Udemy
+[Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/certificate/UC-44e1740b-818a-4217-8684-ee2b47b7a33b/)
+
+### EdX
 
 ## Work History
 ![Applied Materials](https://img.shields.io/badge/Applied%20Materials-347da2.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAnCAYAAAB9qAq4AAAEXElEQVR4nO2YW4iVVRTHf+c731wIPWYP0WBFIVlgQaCRlyKKCLIgLSlfpIjE6qUisYcKDArKKIIi1CLsLa0oguheeIERuhhMDdJlukg2ZWTRhDPOOeffw1qbb8/xO/eD9OAfFuc7a9/WXre91y5Iog2kQBm4FbgSqAJJi2PLwH7gZ+BTYDxqS3yu4yGpVUr8d726xy+SXpG0Kpq/mLduO8IVJN3pC0xJmox+m9GUUx6GJS2tJ2RBzU1cjL4XAMf8u9CiaUNfAXOAhcC1wHXAbG+vABuBp8ncqCUTJ03au6HzJG2t0eZGb0tb0WBw3EXAYMRrF3IN/gr8BvxT074S2AKc7v0eADZjlqs02+X9kqp1fKddTEj6QdJOSctrNHWRpD8kVbzvMucX65l1QNJTPRKsHl6U1C+pz9e93gWsShqRBUxSa+Jg1iFgHfCv89oJiHpIgMuBq8hc5h3gRl/zGPACcIe3rQF2nKiAiGmRpH2RJrdF658t6W/X4h5JSSPhkh5SbX6bJemAMp9bHLW96rwJSfNTsryzKVJ3kSxiq1gkBjOFnJZ/NB2PMHYEeBT4BpgA1gMfe9s64DOfexewGjgFuDhIvba+L/cUhySdITuVBiR95/wRZcGyTFnm2JD6TrYAk8Co73gucI7v7ifgT/8+FzgVy/yjxBm/MWb52CHgMuA1YArLjfOBEmbJaeBING4hksZc2h9lYY+km6Ndr1XmH68774ikuWo9MJb7uKqkByP+sPPHJA0678JIgy+lWGYP2b7fd5FGu0jJ0kx8kvQ7P/hkHoqu7T7/X5uulMOfMVfKzDyniKjh1SLm1xMwb7620MnZekJxUsBucVLAbvG/FzBt3qXh2JAjG+XBkCs7XiQP9SaM895hmh915ZrftpGSv/tpstMlbh8gOxnuw06hRhoEO3HGaa/InyFg0GLVFwf4NuqzIPr+CFiBHf5PtLjGZuALOjRzAhz079OwWwzAIeAvTDPX+OQp8CzwMnC0xfk3YVVax2VDCgy7ECWsqB4HfscukzcBi7G3mO2YuW4DHgbOJyvq48XDRfYosKcb4YKA7wMP+WKrgQ99wseAVd7vGexe+In/P0im+UboI/PnjpBgL00j2M7XAGe6gPuBu71PCXgPeB6ryuZ5v5iGMH8dwDZbpPWyoKGA08CT/j0HeM4nHgS2YjfuAqaNu7BAGXX62mkE89t7yWqYCj1Agu10B7DbeTdgDzmTmDa2AVcAbzsPTKOz/beElQHbMY2X6cKktQh5UMDtWGVVwlJIgSyV7Ha6ACu+52E1RshtY8AjzLz49kzAUGZ+j0XrG972OLAE2OBtAAec8tAsYXeEkNkrLuxbWGo57PyVwOdYFF+KaTcem0bUc+FiAcF8JwXeBJZi7yZggXMPsA/4CvgAeBfLnWXMAh2fte0IGIQM5l4B3ALsJQuOs4CrsYfwXTR6/O4R8m4zFV9YwE6nS7DoXgJ8ifkl9ObVqyH+A8bwpE6WwOHlAAAAAElFTkSuQmCC)
