@@ -111,7 +111,7 @@ Using data science and deep learning, predicting inventory consumption and asset
 - [Duke University - Nanotechnology: A Maker’s Course](https://www.coursera.org/account/accomplishments/certificate/4P4J93JE5WQ5)
 
 ### Udemy
-- [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/certificate/UC-44e1740b-818a-4217-8684-ee2b47b7a33b/)
+- [Data Science and Machine Learning Bootcamp with R](https://www.coursera.org/account/accomplishments/verify/4P4J93JE5WQ5)
 
 ### EdX
 
