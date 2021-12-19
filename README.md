@@ -104,10 +104,10 @@ Using data science and deep learning, predicting inventory consumption and asset
 
 ## Certifications
 ### Coursera
-- [Technical University of Munich - Digitalization in Aeronautics and Space Specialization]()
+- [Technical University of Munich - Digitalization in Aeronautics and Space Specialization](https://www.coursera.org/account/accomplishments/specialization/UWCG9HYHQ9MR)
    - [Digitalization in the Aerospace Industry](https://www.coursera.org/account/accomplishments/verify/KWFRXMLY7TGU)
    - [Digitalization in Space Research](https://www.coursera.org/account/accomplishments/verify/X7NXL65YQT7V)
-   - [Digitalization in Aeronautics]()
+   - [Digitalization in Aeronautics](https://www.coursera.org/account/accomplishments/verify/LSW76X9B7AXY)
 - [Duke University - Nanotechnology: A Maker’s Course](https://www.coursera.org/account/accomplishments/certificate/4P4J93JE5WQ5)
 
 ### Udemy
