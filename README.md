@@ -104,7 +104,7 @@ Using data science and deep learning, predicting inventory consumption and asset
 
 ## Certifications
 ### Coursera
-- [University At Buffalo - Digital Manufacturing & Design Technology Specialization]()
+- [University At Buffalo - Digital Manufacturing & Design Technology Specialization](https://www.coursera.org/account/accomplishments/specialization/ZPHF4MWZVNGN)
    - [Digital Manufacturing & Design](https://www.coursera.org/account/accomplishments/records/NBW95V5U9MT7)
    - [Digital Thread: Components](https://www.coursera.org/account/accomplishments/records/ADGHDD68ZHD8)
    - [Digital Thread: Implementation](https://www.coursera.org/account/accomplishments/records/YGDKJVN68JZV)
