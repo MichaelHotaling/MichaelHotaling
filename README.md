@@ -104,6 +104,16 @@ Using data science and deep learning, predicting inventory consumption and asset
 
 ## Certifications
 ### Coursera
+- [University At Buffalo - Digital Manufacturing & Design Technology Specialization]()
+   - [Digital Manufacturing & Design](https://www.coursera.org/account/accomplishments/records/NBW95V5U9MT7)
+   - [Digital Thread: Components](https://www.coursera.org/account/accomplishments/records/ADGHDD68ZHD8)
+   - [Digital Thread: Implementation](https://www.coursera.org/account/accomplishments/records/YGDKJVN68JZV)
+   - [Advanced Manufacturing Process Analysis](https://www.coursera.org/account/accomplishments/records/3LEWAG7EZUQJ)
+   - [Intelligent Machining](https://www.coursera.org/account/accomplishments/records/A7ALLUYALVLU)
+   - [Advanced Manufacturing Enterprise](https://www.coursera.org/account/accomplishments/records/ELADFMSFLPWM)
+   - [Cyber Security in Manufacturing](https://www.coursera.org/account/accomplishments/records/LQ4X27QST4TG)
+   - [MBSE: Model-Based Systems Engineering](https://www.coursera.org/account/accomplishments/records/LZ4RVEFXZ8M4)
+   - [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/account/accomplishments/records/U5U8YZGGMHBA)
 - [Technical University of Munich - Digitalization in Aeronautics and Space Specialization](https://www.coursera.org/account/accomplishments/specialization/UWCG9HYHQ9MR)
    - [Digitalization in the Aerospace Industry](https://www.coursera.org/account/accomplishments/verify/KWFRXMLY7TGU)
    - [Digitalization in Space Research](https://www.coursera.org/account/accomplishments/verify/X7NXL65YQT7V)
