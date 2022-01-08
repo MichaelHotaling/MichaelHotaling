@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there 👋 <br> My name is Michael</h2>
-<p align="center">I'm a data scientist and engineer at Applied Materials, putting the power of artificial intelligence and machine learning at the edge of Industry 4.0 and next-generation Smart Factory Automation. I specialize in early failure detection for machinery, prognostic analysis, dashboards, visualization, and exploratory data analysis. I’m looking to collaborate on data science projects, machine learning, and applications of data science in other fields
+<p align="center">I'm a data scientist and engineer at Applied Materials, putting the power of artificial intelligence and machine learning at the edge of the Industrial Internet of Things, Industry 4.0, and next-generation Smart Factory Automation. I specialize in early failure detection for machinery, prognostic analysis, dashboards, visualization, and exploratory data analysis. I’m looking to collaborate on data science projects, machine learning, and applications of data science in other fields
 </p>
 <br/>  
 
