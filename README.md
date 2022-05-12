@@ -119,6 +119,12 @@ Using data science and deep learning, predicting inventory consumption and asset
    - [Digitalization in the Aerospace Industry](https://www.coursera.org/account/accomplishments/verify/KWFRXMLY7TGU)
    - [Digitalization in Space Research](https://www.coursera.org/account/accomplishments/verify/X7NXL65YQT7V)
    - [Digitalization in Aeronautics](https://www.coursera.org/account/accomplishments/verify/LSW76X9B7AXY)
+
+- [Reinforcement Learning Specialization - University of Alberta & Alberta Machine Intelligence Institute](https://coursera.org/share/76208da224e005918a54e1e8ba6a60b8)
+   - [Fundamentals of Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/72ERHH34JAEK)
+   - [Sample-based Learning Methods](https://www.coursera.org/account/accomplishments/verify/7WNJXL47Z8CU)
+   - [Prediction and Control with Function Approximation](https://www.coursera.org/account/accomplishments/verify/SG32N8UPB6WM)
+   - [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/account/accomplishments/verify/5UHXTJXL9ATZ)
 - [Duke University - Nanotechnology: A Maker’s Course](https://www.coursera.org/account/accomplishments/verify/4P4J93JE5WQ5)
 
 ### Udemy
