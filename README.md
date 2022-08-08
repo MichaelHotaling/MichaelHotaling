@@ -10,7 +10,7 @@
 <a href="https://www.twitter.com/MichaelHotaling" target="_blank">
 <img src=https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/michael-hotaling/" target="_blank">
+<a href="https://www.linkedin.com/in/mikehotaling/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  </div>  
